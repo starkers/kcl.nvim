@@ -48,7 +48,7 @@ use 'kcl-lang/vim-kcl'
 > ❗️ You may want a more advanced configuration to ensure `*.k` files are bound to `ftiletype=kcl`
 
 For example (with the lazy plugin manager)
-```
+```lua
 {
 	"kcl-lang/vim-kcl",
 	init = function()
